@@ -3,6 +3,7 @@
 ! public: false
 ! author: kkronic
 
+/privacy$boost=5,site=usnews.com
 $boost=5,site=dataprivacymanager.net
 $boost=5,site=oag.ca.gov
 news$boost=5,site=noyb.eu
@@ -21,7 +22,6 @@ $boost=4,site=naih.hu
 $boost=4,site=skillcast.com
 /news/$boost=4,site=bbc.com
 /news/$boost=4,site=bbc.co.uk
-/privacy$boost=4,site=usnews.com
 /privacy/$boost=4,site=csoonline.com
 $boost=3,site=bbc.com
 $boost=3,site=bbc.co.uk
