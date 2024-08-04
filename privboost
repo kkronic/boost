@@ -1,0 +1,36 @@
+! name: PrivBoost
+! description: Rerank results for privacy
+! public: false
+! author: kkronic
+
+$boost=5,site=ftc.gov
+$boost=5,site=cnil.fr
+$boost=5,site=noyb.eu
+$boost=5,site=oag.ca.gov
+$boost=4,site=aepd.es
+$boost=4,site=bfdi.bund.de
+$boost=4,site=dataprotectionauthority.be
+$boost=4,site=cnpd.public.lu
+$boost=4,site=ico.org.uk
+$boost=4,site=dataprotection.ie
+$boost=4,site=dsb.gv.at
+$boost=4,site=naih.hu
+/news/$boost=4,site=bbc.com
+/news/$boost=4,site=bbc.co.uk
+/privacy$boost=4,site=usnews.com
+/privacy/$boost=4,site=csoonline.com
+$boost=3,site=bbc.com
+$boost=3,site=bbc.co.uk
+$boost=3,site=usnews.com
+$boost=3,site=globalcompliancenews.com
+$boost=3,site=csoonline.com
+/technology/$boost=3,site=nytimes.com
+/blog/$boost=3,site=onetrust.com
+/blog/$boost=3,site=cookieyes.com
+/blog/$boost=3,site=kaamel.com
+/privacy/$boost=3,site=techcrunch.com
+$boost=2,site=usatoday.com
+$boost=2,site=dataprivacymanager.net
+$boost=2,site=reuters.com
+/newsletter$boost=2,site=osano.com
+
