@@ -1,0 +1,41 @@
+! name: PrivBoostv2
+! description: Rerank results for privacy
+! public: false
+! author: kkronic
+
+$boost=5,site=dataprivacymanager.net
+$boost=5,site=oag.ca.gov
+news$boost=5,site=noyb.eu
+news$boost=5,site=cnil.fr
+field_consumer_protection_topics$boost=5,site=ftc.gov
+/articles/$boost=5,site=termly.io
+/compliance-blog/$boost=5,site=eqs.com
+$boost=4,site=aepd.es
+$boost=4,site=bfdi.bund.de
+$boost=4,site=dataprotectionauthority.be
+$boost=4,site=cnpd.public.lu
+$boost=4,site=ico.org.uk
+$boost=4,site=dataprotection.ie
+$boost=4,site=dsb.gv.at
+$boost=4,site=naih.hu
+$boost=4,site=skillcast.com
+/news/$boost=4,site=bbc.com
+/news/$boost=4,site=bbc.co.uk
+/privacy$boost=4,site=usnews.com
+/privacy/$boost=4,site=csoonline.com
+$boost=3,site=bbc.com
+$boost=3,site=bbc.co.uk
+$boost=3,site=usnews.com
+$boost=3,site=globalcompliancenews.com
+$boost=3,site=csoonline.com
+$boost=3,site=aclu.org
+$boost=3,site=bytebacklaw.com
+/technology/$boost=3,site=nytimes.com
+/blog/$boost=3,site=onetrust.com
+/blog/$boost=3,site=cookieyes.com
+/blog/$boost=3,site=kaamel.com
+/privacy/$boost=3,site=techcrunch.com
+$boost=2,site=usatoday.com
+$boost=2,site=reuters.com
+$boost=2,site=wikipedia.org
+/newsletter$boost=2,site=osano.com
