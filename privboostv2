@@ -23,6 +23,7 @@ $boost=4,site=skillcast.com
 /news/$boost=4,site=bbc.com
 /news/$boost=4,site=bbc.co.uk
 /privacy/$boost=4,site=csoonline.com
+/it-security/$boost=4,site=spiceworks.com
 $boost=3,site=bbc.com
 $boost=3,site=bbc.co.uk
 $boost=3,site=usnews.com
