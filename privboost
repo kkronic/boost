@@ -9,7 +9,7 @@ news$boost=5,site=noyb.eu
 news$boost=5,site=cnil.fr
 field_consumer_protection_topics$boost=5,site=ftc.gov
 /articles/$boost=5,site=termly.io
-/compliance-blog/$boost=5,eqs.com
+/compliance-blog/$boost=5,site=eqs.com
 $boost=4,site=aepd.es
 $boost=4,site=bfdi.bund.de
 $boost=4,site=dataprotectionauthority.be
