@@ -6,6 +6,7 @@
 /privacy$boost=5,site=usnews.com
 $boost=5,site=dataprivacymanager.net
 $boost=5,site=oag.ca.gov
+/privacy-enforcement-actions|$downrank=6,site=oag.ca.gov
 news$boost=5,site=noyb.eu
 news$boost=5,site=cnil.fr
 field_consumer_protection_topics$boost=5,site=ftc.gov
