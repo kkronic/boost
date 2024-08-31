@@ -3,7 +3,7 @@
 ! public: false
 ! author: kkronic
 
-/privacy$boost=5,site=usnews.com
+/subjects/privacy$boost=5,site=usnews.com
 $boost=5,site=dataprivacymanager.net
 $boost=5,site=oag.ca.gov
 /privacy-enforcement-actions|$discard,site=oag.ca.gov
