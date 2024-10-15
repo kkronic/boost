@@ -5,7 +5,7 @@
 
 /subjects/privacy$boost=5,site=usnews.com
 /subject/privacy$boost=5,site=nytimes.com
-/en/$boost=5,site=2b-advice.com
+/en/$boost=6,site=2b-advice.com
 /2024/$boost=5,site=bytebacklaw.com
 $boost=5,site=dataprivacymanager.net
 $boost=5,site=oag.ca.gov
