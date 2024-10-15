@@ -3,10 +3,11 @@
 ! public: false
 ! author: kkronic
 
+/en/$boost=6,site=2b-advice.com
 /subjects/privacy$boost=5,site=usnews.com
 /subject/privacy$boost=5,site=nytimes.com
-/en/$boost=6,site=2b-advice.com
 /2024/$boost=5,site=bytebacklaw.com
+/resources/$boost=5,site=iapp.org
 $boost=5,site=dataprivacymanager.net
 $boost=5,site=oag.ca.gov
 /privacy-enforcement-actions|$discard,site=oag.ca.gov
