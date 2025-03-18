@@ -1,0 +1,10 @@
+! name: CrawlBoost
+! description: Rerank results for policies
+! public: false
+! author: kkronic
+
+/privacy$boost=5
+/policy$boost=5
+/terms$boost=5
+/legal$boost=4
+/about$boost=4
